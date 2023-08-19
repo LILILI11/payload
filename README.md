@@ -14,5 +14,5 @@ dreamhack_payload
 * [rxort.py](code/rxort.py)
 * [sql_bypass_waf_adv.py](code/sql_bypass_waf_advanced.py)
 * [ssrf.py](code/ssrf.py)
-* [XSsearch.py](code/XSsearch.py]
+* [XSsearch.py](code/XSsearch.py)
 * [amocafe.py](code/amocafe.py)

@@ -1,3 +1,3 @@
 # payload
 dreamhack_payload
-* blind
+* blind_sql.py(https://github.com/LILILI11/payload/blob/main/blind_sql.py)
